@@ -1,0 +1,38 @@
+{
+	"name": "gulp-cspell",
+	"version": "0.0.1",
+	"description": "cSpell Gulp Integration",
+	"main": "src/index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/movahhedi/gulp-cspell.git"
+	},
+	"keywords": [
+		"gulp",
+		"cspell",
+		"gulp-cspell",
+		"plugin"
+	],
+	"author": "Shahab Movahhedi",
+	"contributors": [
+		{
+			"name": "Shahab Movahhedi",
+			"url": "https://shmovahhedi.com",
+			"email": "dev@shmovahhedi.com"
+		}
+	],
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/movahhedi/gulp-cspell/issues"
+	},
+	"homepage": "https://github.com/movahhedi/gulp-cspell#readme",
+	"dependencies": {
+		"cspell": "^6.3.0",
+		"plugin-error": "^2.0.0",
+		"through2": "^4.0.2"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2"
+	}
+}

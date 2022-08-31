@@ -1,0 +1,22 @@
+# Secrets
+[Ss]ecret.*
+[Cc]onfig.*
+*.sql
+
+# Temps
+**/[Tt]emp/**
+**/[Tt]emps/**
+**/.DS_Store
+**/._.DS_Store
+
+# Packages
+/vendor/**
+/src/vendor/**
+node_modules/**
+
+# The Build
+/build
+/dist
+
+# Variable Data
+/src/data/
